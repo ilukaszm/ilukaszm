@@ -1,16 +1,38 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://i.imgur.com/MK48aJF.jpg" width="750">
+</p>
 
-<!--
-**ilukaszm/ilukaszm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome on my github profile! 👋
 
-Here are some ideas to get you started:
+## About me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Łukasz. I come from Poland. I'm beginner fullstack developer. 
+
+## My projects
+
+### WordsAPP
+<p align="center">
+  <img src="https://i.imgur.com/DOCBw0C.png">
+</p>
+
+- [Client](https://github.com/ilukaszm/WordsAPP---Client)
+- [Backend](https://github.com/ilukaszm/WordsAPP---REST-API)
+
+### Invoice-Generator 
+
+<p align="center">
+  <img src="https://invoice-generator.vercel.app/static/media/invoiceImg.6e540171.svg" width="200">
+</p>
+
+- [Client](https://github.com/ProjektJS/invoice-generator-frontend)
+
+## My contribution
+
+### ActiveLife
+
+<p align="center">
+  <img src="https://i.imgur.com/BhVXha1.png">
+</p>
+
+- [Client](https://github.com/ProjektJS/invoice-generator-frontend)
+
