@@ -6,7 +6,7 @@
 
 ## About me 
 
-My name is Łukasz. I come from Poland. I'm beginner fullstack developer. 
+My name is Łukasz. I come from Poland. I'm beginner fullstack developer. Currently, I'm programming in JavaScript and TypeScript. My favorite library in JavaScript is especially React and all his ecosystem like Redux, React-Router-DOM, NextJS, React-Hook-Form, Styled-components and many others. I love creating applications in these technologies. Except frontend I like creating backend code as well. The most important in my applications are optimization, efficiency and solid code. I'm big fan services of serverless. 
 
 ## My projects
 
