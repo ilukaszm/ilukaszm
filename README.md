@@ -26,7 +26,7 @@ My name is Łukasz. I come from Poland. I'm beginner fullstack developer.
 
 - [Client](https://github.com/ProjektJS/invoice-generator-frontend)
 
-## My contribution
+## My contributions
 
 ### ActiveLife
 
