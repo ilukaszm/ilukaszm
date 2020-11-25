@@ -34,5 +34,5 @@ My name is Łukasz. I come from Poland. I'm beginner fullstack developer.
   <img src="https://i.imgur.com/BhVXha1.png">
 </p>
 
-- [Client](https://github.com/ProjektJS/invoice-generator-frontend)
+- [Client](https://github.com/ActiveLifeApp/client)
 
