@@ -26,6 +26,15 @@ My name is Łukasz. I come from Poland. I'm beginner fullstack developer. Curren
 
 - [Client](https://github.com/ProjektJS/invoice-generator-frontend)
 
+
+### SocialPlace
+
+<p align="center">
+  <img src="https://i.imgur.com/MnXakZ2.png" width="200">
+</p>
+
+- [Client](https://github.com/ilukaszm/SocialPlace)
+
 ## My contributions
 
 ### ActiveLife
