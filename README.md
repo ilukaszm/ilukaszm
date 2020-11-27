@@ -24,7 +24,7 @@ My name is Łukasz. I come from Poland. I'm beginner fullstack developer. Curren
   <img src="https://invoice-generator.vercel.app/static/media/invoiceImg.6e540171.svg" width="200">
 </p>
 
-- [Client](https://github.com/ProjektJS/invoice-generator-frontend)
+- [Client](https://github.com/ilukaszm/Invoice-Generator-Client)
 
 
 ### SocialPlace
