@@ -13,8 +13,8 @@ My name is Łukasz. I come from Poland. I'm beginner fullstack developer. Curren
 - CSS 
 - JavaScript
 - TypeScript
-- React with his ecosystem: React Router, Redux, Redux Toolkit, React Hook Form, React Testing Library, Styled Components, Material UI, NextJS
-- Node with his ecosystem: ExpressJS, PassportJS, NestJS, Prisma
+- React with his ecosystem: React Router, Redux, Redux Toolkit, React Hook Form, React Testing Library, Styled Components, Material-UI, Next.js
+- Node with his ecosystem: Express, Passport, Nest, Prisma
 - Git
 - Firebase
 ### Others:
