@@ -1,12 +1,24 @@
-<p align="center">
-  <img src="https://i.imgur.com/wJ7KUkY.png" width="750">
-</p>
-
 # Welcome on my github profile! 👋
 
 ## About me 
 
 My name is Łukasz. I come from Poland. I'm beginner fullstack developer. Currently, I'm programming in JavaScript and TypeScript. My favorite library in JavaScript is especially React and all his ecosystem like Redux, React-Router-DOM, NextJS, React-Hook-Form, Styled-components and many others. I love creating applications in these technologies. Except frontend I like creating backend code as well. The most important in my applications are optimization, efficiency and solid code. I'm big fan services of serverless. 
+
+**Contact**: 
+- Email: lukasz.michalak96@outlook.com
+- LinkedIn: [profile](https://www.linkedin.com/in/%C5%82ukasz-michalak-a45486186/)
+
+## Technologies
+- HTML
+- CSS 
+- JavaScript
+- TypeScript
+- React with his ecosystem: React Router, Redux, Redux Toolkit, React Hook Form, React Testing Library, Styled Components, Material UI, NextJS
+- Node with his ecosystem: ExpressJS, PassportJS, NestJS, Prisma
+- Git
+- Firebase
+### Others:
+NPM, Yarn, Eslint, Prettier, Figma, Husky, Lint-staged
 
 ## My projects
 
